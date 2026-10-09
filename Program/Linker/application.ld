@@ -37,6 +37,36 @@ SECTIONS
         . = ALIGN(4);
     } > APPLICATION
 
+    .preinit_array :
+    {
+        . = ALIGN(4);
+        __preinit_array_start = .;
+        KEEP(*(.preinit_array*))
+        __preinit_array_end = .;
+    } > APPLICATION
+
+    .init_array :
+    {
+        . = ALIGN(4);
+        __init_array_start = .;
+        KEEP(*(SORT_BY_INIT_PRIORITY(.init_array.*)))
+        KEEP(*(.init_array*))
+        __init_array_end = .;
+    } > APPLICATION
+
+    .ARM.extab :
+    {
+        *(.ARM.extab*)
+    } > APPLICATION
+
+    .ARM.exidx :
+    {
+        __exidx_start = .;
+        *(.ARM.exidx*)
+        __exidx_end = .;
+    } > APPLICATION
+
+    __data_load_start = LOADADDR(.data);
     .data :
     {
         . = ALIGN(4);
@@ -61,5 +91,6 @@ SECTIONS
         . = . + __stack_size;
     } > RAM
 
-    /* Keep assertions minimal for application side; bootloader enforces stricter checks. */
+    ASSERT(__bss_end <= __stack_limit, "RAM overflow: .bss overlaps reserved stack")
+    ASSERT(SIZEOF(.isr_vector) == 118 * 4, "Unexpected STM32G474 vector table size")
 }

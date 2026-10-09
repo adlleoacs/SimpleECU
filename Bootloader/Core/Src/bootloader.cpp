@@ -12,7 +12,7 @@ extern std::uint32_t __application_vector_table_start;
 
 namespace {
 
-constexpr std::uint32_t kBootPin = 0U;
+constexpr std::uint32_t kBootPin = 13U; // PC13 (Nucleo User Button)
 constexpr std::uint32_t kBootPinMask = 1U << kBootPin;
 
 std::uint32_t read_vector(std::uint32_t address)
@@ -27,15 +27,15 @@ namespace Bootloader {
 
 bool boot_entry_requested()
 {
-	RCC->AHB2ENR |= RCC_AHB2ENR_GPIOAEN;
+	RCC->AHB2ENR |= RCC_AHB2ENR_GPIOCEN;
 	(void)RCC->AHB2ENR;
 
-	GPIOA->MODER &= ~(3U << (kBootPin * 2U));
-	GPIOA->PUPDR = (GPIOA->PUPDR & ~(3U << (kBootPin * 2U))) |
+	GPIOC->MODER &= ~(3U << (kBootPin * 2U));
+	GPIOC->PUPDR = (GPIOC->PUPDR & ~(3U << (kBootPin * 2U))) |
 				   (1U << (kBootPin * 2U));
 
-	const bool requested = (GPIOA->IDR & kBootPinMask) == 0U;
-	RCC->AHB2ENR &= ~RCC_AHB2ENR_GPIOAEN;
+	const bool requested = (GPIOC->IDR & kBootPinMask) == 0U;
+	RCC->AHB2ENR &= ~RCC_AHB2ENR_GPIOCEN;
 	return requested;
 }
 
@@ -84,7 +84,7 @@ bool application_is_valid()
 		NVIC->ICPR[index] = 0xFFFFFFFFU;
 	}
 
-	RCC->AHB2ENR &= ~RCC_AHB2ENR_GPIOAEN;
+	RCC->AHB2ENR &= ~RCC_AHB2ENR_GPIOCEN;
 	SCB->VTOR = reinterpret_cast<std::uintptr_t>(&__application_vector_table_start);
 	__DSB();
 	__ISB();

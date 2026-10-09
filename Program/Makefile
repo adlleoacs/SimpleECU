@@ -24,7 +24,7 @@ CXXFLAGS := -std=gnu++20 -mcpu=cortex-m4 -mthumb -mfloat-abi=soft \
 
 all: $(BUILD_DIR)/application.bin
 
-APPLICATION_SOURCES := App/Src/main.cc \
+APPLICATION_SOURCES := App/Src/main.cpp \
     App/Src/vector_table.cpp \
     App/Src/startup.cpp \
     App/Src/fan_controller.cpp \
