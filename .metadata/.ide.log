@@ -1,0 +1,243 @@
+2026-10-08 00:28:41,129 [INFO] Activator:177 - 
+
+
+2026-10-08 00:28:41,130 [INFO] Activator:178 - !SESSION log4j initialized
+2026-10-08 00:28:41,780 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:28:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:28:41,781 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 00:28:41,781 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:28:41,781 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:28:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:28:41,781 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 00:28:41,781 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:28:41,810 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:28:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:28:41,810 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 00:28:41,810 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:28:42,077 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-10-08 00:28:42,765 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:28:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:28:42,765 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-10-08 00:28:42,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:28:42,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:28:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:28:42,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-10-08 00:28:42,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:28:42,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:28:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:28:42,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 00:28:42,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:28:42,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:28:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:28:42,767 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/quotaChange
+2026-10-08 00:28:42,767 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:28:42,770 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:28:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:28:42,770 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: conversation/preconditionsNotification
+2026-10-08 00:28:42,770 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:33:22,391 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:33:31,874 [INFO] Activator:177 - 
+
+
+2026-10-08 00:33:31,875 [INFO] Activator:178 - !SESSION log4j initialized
+2026-10-08 00:33:32,584 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:33:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:33:32,584 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 00:33:32,584 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:33:32,585 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:33:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:33:32,585 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 00:33:32,585 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:33:32,616 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:33:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:33:32,616 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 00:33:32,616 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:33:32,866 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-10-08 00:33:33,563 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:33:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:33:33,563 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-10-08 00:33:33,563 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:33:33,564 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:33:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:33:33,564 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-10-08 00:33:33,564 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:33:33,564 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:33:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:33:33,564 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 00:33:33,564 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:33:33,564 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:33:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:33:33,564 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/quotaChange
+2026-10-08 00:33:33,565 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:33:33,567 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:33:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:33:33,567 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: conversation/preconditionsNotification
+2026-10-08 00:33:33,568 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:33:34,299 [ERROR] ConfigurationRetriever:142 - IOException on connection: (internal_error) Received fatal alert: internal_error
+2026-10-08 00:33:35,399 [ERROR] ConfigurationRetriever:142 - IOException on connection: (internal_error) Received fatal alert: internal_error
+2026-10-08 00:33:36,423 [ERROR] ConfigurationRetriever:142 - IOException on connection: (internal_error) Received fatal alert: internal_error
+2026-10-08 00:36:37,609 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:40:19,770 [INFO] Activator:177 - 
+
+
+2026-10-08 00:40:19,770 [INFO] Activator:178 - !SESSION log4j initialized
+2026-10-08 00:40:20,540 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:40:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:40:20,540 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 00:40:20,540 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:40:20,541 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:40:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:40:20,541 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 00:40:20,541 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:40:20,569 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:40:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:40:20,569 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 00:40:20,570 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:40:20,883 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-10-08 00:40:21,474 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:40:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:40:21,474 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-10-08 00:40:21,474 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:40:21,474 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:40:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:40:21,474 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-10-08 00:40:21,474 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:40:21,475 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:40:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:40:21,475 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 00:40:21,475 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:40:21,475 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:40:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:40:21,475 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/quotaChange
+2026-10-08 00:40:21,475 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:40:21,477 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:40:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:40:21,477 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: conversation/preconditionsNotification
+2026-10-08 00:40:21,477 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:48:50,443 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:50:03,718 [INFO] Activator:177 - 
+
+
+2026-10-08 00:50:03,719 [INFO] Activator:178 - !SESSION log4j initialized
+2026-10-08 00:50:04,388 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:50:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:50:04,388 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 00:50:04,388 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:50:04,388 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:50:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:50:04,389 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 00:50:04,389 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:50:04,418 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:50:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:50:04,418 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 00:50:04,418 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:50:04,722 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-10-08 00:50:05,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:50:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:50:05,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-10-08 00:50:05,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:50:05,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:50:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:50:05,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-10-08 00:50:05,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:50:05,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:50:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:50:05,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 00:50:05,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:50:05,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:50:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:50:05,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/quotaChange
+2026-10-08 00:50:05,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:50:05,400 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 12:50:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 00:50:05,400 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: conversation/preconditionsNotification
+2026-10-08 00:50:05,400 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 00:51:59,390 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 01:56:02,582 [INFO] Activator:177 - 
+
+
+2026-10-08 01:56:02,583 [INFO] Activator:178 - !SESSION log4j initialized
+2026-10-08 01:56:03,325 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 1:56:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 01:56:03,325 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 01:56:03,325 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 01:56:03,325 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 1:56:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 01:56:03,325 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 01:56:03,326 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 01:56:03,354 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 1:56:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 01:56:03,354 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 01:56:03,354 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 01:56:03,628 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-10-08 01:56:04,372 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 1:56:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 01:56:04,373 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-10-08 01:56:04,373 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 01:56:04,373 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 1:56:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 01:56:04,373 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-10-08 01:56:04,373 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 01:56:04,373 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 1:56:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 01:56:04,374 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 01:56:04,374 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 01:56:04,374 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 1:56:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 01:56:04,374 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/quotaChange
+2026-10-08 01:56:04,374 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 01:56:04,377 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 1:56:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 01:56:04,377 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: conversation/preconditionsNotification
+2026-10-08 01:56:04,377 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 01:58:40,012 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:01:29,031 [INFO] Activator:177 - 
+
+
+2026-10-08 02:01:29,032 [INFO] Activator:178 - !SESSION log4j initialized
+2026-10-08 02:01:29,919 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:01:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:01:29,919 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 02:01:29,919 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:01:29,920 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:01:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:01:29,920 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 02:01:29,920 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:01:29,949 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:01:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:01:29,949 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 02:01:29,949 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:01:30,217 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-10-08 02:01:30,935 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:01:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:01:30,935 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-10-08 02:01:30,935 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:01:30,935 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:01:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:01:30,935 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-10-08 02:01:30,935 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:01:30,935 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:01:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:01:30,935 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 02:01:30,935 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:01:30,936 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:01:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:01:30,936 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/quotaChange
+2026-10-08 02:01:30,936 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:01:30,938 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:01:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:01:30,938 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: conversation/preconditionsNotification
+2026-10-08 02:01:30,938 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:02:11,870 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:02:14,427 [INFO] Activator:177 - 
+
+
+2026-10-08 02:02:14,427 [INFO] Activator:178 - !SESSION log4j initialized
+2026-10-08 02:02:15,231 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:02:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:02:15,232 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 02:02:15,232 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:02:15,232 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:02:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:02:15,232 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 02:02:15,232 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:02:15,261 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:02:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:02:15,261 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 02:02:15,262 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:02:15,557 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-10-08 02:02:16,223 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:02:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:02:16,223 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-10-08 02:02:16,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:02:16,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:02:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:02:16,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-10-08 02:02:16,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:02:16,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:02:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:02:16,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 02:02:16,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:02:16,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:02:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:02:16,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/quotaChange
+2026-10-08 02:02:16,224 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:02:16,227 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:02:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:02:16,228 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: conversation/preconditionsNotification
+2026-10-08 02:02:16,228 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:02:30,890 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:03:47,685 [INFO] Activator:177 - 
+
+
+2026-10-08 02:03:47,686 [INFO] Activator:178 - !SESSION log4j initialized
+2026-10-08 02:03:48,406 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:03:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:03:48,406 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 02:03:48,407 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:03:48,407 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:03:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:03:48,407 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/hook/didChange
+2026-10-08 02:03:48,407 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:03:48,435 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:03:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:03:48,436 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 02:03:48,436 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:03:48,697 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-10-08 02:03:49,451 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:03:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:03:49,451 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: statusNotification
+2026-10-08 02:03:49,451 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:03:49,451 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:03:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:03:49,451 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus
+2026-10-08 02:03:49,451 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:03:49,451 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:03:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:03:49,451 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: didChangeStatus/v2
+2026-10-08 02:03:49,451 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:03:49,452 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:03:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:03:49,452 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: copilot/quotaChange
+2026-10-08 02:03:49,452 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:03:49,454 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Oct 08, 2026 2:03:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2026-10-08 02:03:49,454 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Unsupported notification method: conversation/preconditionsNotification
+2026-10-08 02:03:49,454 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-10-08 02:04:48,999 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 

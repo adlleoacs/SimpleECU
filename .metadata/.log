@@ -1,0 +1,805 @@
+!SESSION 2026-10-08 00:28:38.495 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data /home/oel/Documents/Mestraldas/repos/newFileStructure
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-08 00:28:41.008
+!MESSAGE Log4j2 initialized with config file /home/oel/Documents/Mestraldas/repos/newFileStructure/.metadata/.log4j2.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:28:41.362
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:28:41.363
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.linux.x64
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:28:41.369
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:41.789
+!MESSAGE [Info]	[ripgrep] Using tmpFolder for ripgrep: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:41.789
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.527.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:41.789
+!MESSAGE [Info]	[ripgrep] Resolved ripgrep path: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:41.789
+!MESSAGE [Info]	[ripgrep] Set GITHUB_COPILOT_RIPGREP_PATH_OVERRIDE=/home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-10-08 00:28:41.811
+!MESSAGE [Warning]	[default] Policy watcher not available - continuing without policy watching: Unsupported platform
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:41.811
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:41.811
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:41.917
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.190
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-08 00:28:42.345
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.376
+!MESSAGE [Info]	[UndiciFetcher] HTTP settings changed; resetting Undici dispatchers. {
+  proxy: 'none',
+  noProxyCount: 0,
+  proxyStrictSSL: true,
+  hasProxyAuthorization: false,
+  hasProxyKerberosServicePrincipal: false
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.376
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.767
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.767
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.767
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.767
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.767
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.767
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.767
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.767
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.769
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.769
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.769
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.769
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.769
+!MESSAGE [Info]	[BackgroundAgent] GitHub identity changed, clearing cached sessions {
+  hadPrevious: false,
+  hasCurrent: true,
+  cachedSessionCount: 0,
+  remoteDelegateCount: 0
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:28:42.780
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:31:42.257
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+!SESSION 2026-10-08 00:33:29.443 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-08 00:33:31.732
+!MESSAGE Log4j2 initialized with config file /home/oel/Documents/Mestraldas/repos/newFileStructure/.metadata/.log4j2.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:33:32.199
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:33:32.199
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.linux.x64
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:33:32.204
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:32.596
+!MESSAGE [Info]	[ripgrep] Using tmpFolder for ripgrep: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:32.596
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.527.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:32.596
+!MESSAGE [Info]	[ripgrep] Resolved ripgrep path: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:32.596
+!MESSAGE [Info]	[ripgrep] Set GITHUB_COPILOT_RIPGREP_PATH_OVERRIDE=/home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-10-08 00:33:32.616
+!MESSAGE [Warning]	[default] Policy watcher not available - continuing without policy watching: Unsupported platform
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:32.616
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:32.617
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:32.637
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.000
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-08 00:33:33.266
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.297
+!MESSAGE [Info]	[UndiciFetcher] HTTP settings changed; resetting Undici dispatchers. {
+  proxy: 'none',
+  noProxyCount: 0,
+  proxyStrictSSL: true,
+  hasProxyAuthorization: false,
+  hasProxyKerberosServicePrincipal: false
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.298
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.565
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.565
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.565
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.565
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.565
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.565
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.565
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.565
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.567
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.567
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.567
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.567
+!MESSAGE [Info]	[BackgroundAgent] GitHub identity changed, clearing cached sessions {
+  hadPrevious: false,
+  hasCurrent: true,
+  cachedSessionCount: 0,
+  remoteDelegateCount: 0
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.567
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.587
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:33:33.587
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-10-08 00:35:42.149
+!MESSAGE Indexed 'str-miros-cpp-stm32g474' (1 sources, 0 headers) in 0.084 sec: 23 declarations; 74 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2026-10-08 00:40:16.935 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data /home/oel/Documents/Mestraldas/repos/newFileStructure
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-08 00:40:19.666
+!MESSAGE Log4j2 initialized with config file /home/oel/Documents/Mestraldas/repos/newFileStructure/.metadata/.log4j2.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:40:20.156
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:40:20.157
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.linux.x64
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:40:20.162
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:20.549
+!MESSAGE [Info]	[ripgrep] Using tmpFolder for ripgrep: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:20.549
+!MESSAGE [Info]	[ripgrep] Resolved ripgrep path: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:20.549
+!MESSAGE [Info]	[ripgrep] Set GITHUB_COPILOT_RIPGREP_PATH_OVERRIDE=/home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:20.549
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.527.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:20.570
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:20.570
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-10-08 00:40:20.570
+!MESSAGE [Warning]	[default] Policy watcher not available - continuing without policy watching: Unsupported platform
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:20.656
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:20.945
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-08 00:40:21.036
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.058
+!MESSAGE [Info]	[UndiciFetcher] HTTP settings changed; resetting Undici dispatchers. {
+  proxy: 'none',
+  noProxyCount: 0,
+  proxyStrictSSL: true,
+  hasProxyAuthorization: false,
+  hasProxyKerberosServicePrincipal: false
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.058
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.475
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.475
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.475
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.475
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.476
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.476
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.476
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.476
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.477
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.477
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.477
+!MESSAGE [Info]	[BackgroundAgent] GitHub identity changed, clearing cached sessions {
+  hadPrevious: false,
+  hasCurrent: true,
+  cachedSessionCount: 0,
+  remoteDelegateCount: 0
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.477
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.477
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:40:21.488
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+!SESSION 2026-10-08 00:50:01.548 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-08 00:50:03.593
+!MESSAGE Log4j2 initialized with config file /home/oel/Documents/Mestraldas/repos/newFileStructure/.metadata/.log4j2.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:50:04.011
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:50:04.011
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.linux.x64
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 00:50:04.017
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:04.396
+!MESSAGE [Info]	[ripgrep] Set GITHUB_COPILOT_RIPGREP_PATH_OVERRIDE=/home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:04.396
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.527.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:04.396
+!MESSAGE [Info]	[ripgrep] Using tmpFolder for ripgrep: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:04.397
+!MESSAGE [Info]	[ripgrep] Resolved ripgrep path: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-10-08 00:50:04.418
+!MESSAGE [Warning]	[default] Policy watcher not available - continuing without policy watching: Unsupported platform
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:04.419
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:04.419
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:04.527
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:04.857
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-08 00:50:05.191
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.213
+!MESSAGE [Info]	[UndiciFetcher] HTTP settings changed; resetting Undici dispatchers. {
+  proxy: 'none',
+  noProxyCount: 0,
+  proxyStrictSSL: true,
+  hasProxyAuthorization: false,
+  hasProxyKerberosServicePrincipal: false
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.214
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.398
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.398
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.398
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.398
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.398
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.398
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.398
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.398
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.400
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.400
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.400
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.400
+!MESSAGE [Info]	[BackgroundAgent] GitHub identity changed, clearing cached sessions {
+  hadPrevious: false,
+  hasCurrent: true,
+  cachedSessionCount: 0,
+  remoteDelegateCount: 0
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.400
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 00:50:05.410
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+!SESSION 2026-10-08 01:56:00.516 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data /home/oel/Documents/Mestraldas/repos/newFileStructure
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-08 01:56:02.451
+!MESSAGE Log4j2 initialized with config file /home/oel/Documents/Mestraldas/repos/newFileStructure/.metadata/.log4j2.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 01:56:02.916
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 01:56:02.917
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.linux.x64
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 01:56:02.923
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.334
+!MESSAGE [Info]	[ripgrep] Set GITHUB_COPILOT_RIPGREP_PATH_OVERRIDE=/home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.334
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.527.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.334
+!MESSAGE [Info]	[ripgrep] Resolved ripgrep path: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.334
+!MESSAGE [Info]	[ripgrep] Using tmpFolder for ripgrep: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-10-08 01:56:03.354
+!MESSAGE [Warning]	[default] Policy watcher not available - continuing without policy watching: Unsupported platform
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.354
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.354
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.464
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.744
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-08 01:56:03.777
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.803
+!MESSAGE [Info]	[UndiciFetcher] HTTP settings changed; resetting Undici dispatchers. {
+  proxy: 'none',
+  noProxyCount: 0,
+  proxyStrictSSL: true,
+  hasProxyAuthorization: false,
+  hasProxyKerberosServicePrincipal: false
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.804
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:03.898
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:04.374
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:04.374
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:04.376
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:04.376
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:04.376
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:04.376
+!MESSAGE [Info]	[BackgroundAgent] GitHub identity changed, clearing cached sessions {
+  hadPrevious: false,
+  hasCurrent: true,
+  cachedSessionCount: 0,
+  remoteDelegateCount: 0
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:04.376
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 01:56:04.378
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+!SESSION 2026-10-08 02:01:26.882 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-08 02:01:28.907
+!MESSAGE Log4j2 initialized with config file /home/oel/Documents/Mestraldas/repos/newFileStructure/.metadata/.log4j2.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 02:01:29.521
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 02:01:29.522
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.linux.x64
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 02:01:29.530
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:29.928
+!MESSAGE [Info]	[ripgrep] Set GITHUB_COPILOT_RIPGREP_PATH_OVERRIDE=/home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:29.928
+!MESSAGE [Info]	[ripgrep] Resolved ripgrep path: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:29.928
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.527.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:29.928
+!MESSAGE [Info]	[ripgrep] Using tmpFolder for ripgrep: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-10-08 02:01:29.949
+!MESSAGE [Warning]	[default] Policy watcher not available - continuing without policy watching: Unsupported platform
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:29.949
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:29.950
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.036
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-08 02:01:30.337
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.340
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.367
+!MESSAGE [Info]	[UndiciFetcher] HTTP settings changed; resetting Undici dispatchers. {
+  proxy: 'none',
+  noProxyCount: 0,
+  proxyStrictSSL: true,
+  hasProxyAuthorization: false,
+  hasProxyKerberosServicePrincipal: false
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.368
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.435
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.936
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.936
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.938
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.938
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.938
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.938
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.938
+!MESSAGE [Info]	[BackgroundAgent] GitHub identity changed, clearing cached sessions {
+  hadPrevious: false,
+  hasCurrent: true,
+  cachedSessionCount: 0,
+  remoteDelegateCount: 0
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:01:30.940
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+!SESSION 2026-10-08 02:02:12.287 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data /home/oel/Documents/Mestraldas/repos/newFileStructure
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-08 02:02:14.300
+!MESSAGE Log4j2 initialized with config file /home/oel/Documents/Mestraldas/repos/newFileStructure/.metadata/.log4j2.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 02:02:14.844
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 02:02:14.845
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.linux.x64
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 02:02:14.850
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.240
+!MESSAGE [Info]	[ripgrep] Using tmpFolder for ripgrep: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.240
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.527.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.240
+!MESSAGE [Info]	[ripgrep] Set GITHUB_COPILOT_RIPGREP_PATH_OVERRIDE=/home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.240
+!MESSAGE [Info]	[ripgrep] Resolved ripgrep path: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-10-08 02:02:15.262
+!MESSAGE [Warning]	[default] Policy watcher not available - continuing without policy watching: Unsupported platform
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.262
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.262
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.373
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.643
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-08 02:02:15.679
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.705
+!MESSAGE [Info]	[UndiciFetcher] HTTP settings changed; resetting Undici dispatchers. {
+  proxy: 'none',
+  noProxyCount: 0,
+  proxyStrictSSL: true,
+  hasProxyAuthorization: false,
+  hasProxyKerberosServicePrincipal: false
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.705
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:15.749
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:16.225
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:16.225
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:16.227
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:16.227
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:16.227
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:16.227
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:16.227
+!MESSAGE [Info]	[BackgroundAgent] GitHub identity changed, clearing cached sessions {
+  hadPrevious: false,
+  hasCurrent: true,
+  cachedSessionCount: 0,
+  remoteDelegateCount: 0
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:02:16.229
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+!SESSION 2026-10-08 02:03:45.437 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-08 02:03:47.558
+!MESSAGE Log4j2 initialized with config file /home/oel/Documents/Mestraldas/repos/newFileStructure/.metadata/.log4j2.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 02:03:48.002
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 02:03:48.002
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.linux.x64
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-10-08 02:03:48.010
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.416
+!MESSAGE [Info]	[ripgrep] Resolved ripgrep path: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.416
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.527.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.416
+!MESSAGE [Info]	[ripgrep] Using tmpFolder for ripgrep: /home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.416
+!MESSAGE [Info]	[ripgrep] Set GITHUB_COPILOT_RIPGREP_PATH_OVERRIDE=/home/oel/.cache/pkg/f2ee496a39139b8d9ad9408081217a55f1382cef4950100565d147d247364856/rg
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-10-08 02:03:48.436
+!MESSAGE [Warning]	[default] Policy watcher not available - continuing without policy watching: Unsupported platform
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.436
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.436
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.550
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-08 02:03:48.812
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.824
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.841
+!MESSAGE [Info]	[UndiciFetcher] HTTP settings changed; resetting Undici dispatchers. {
+  proxy: 'none',
+  noProxyCount: 0,
+  proxyStrictSSL: true,
+  hasProxyAuthorization: false,
+  hasProxyKerberosServicePrincipal: false
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.842
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:48.918
+!MESSAGE [Info]	[UndiciFetcher] Root certificate set changed; resetting Undici dispatchers. { certificateCount: 387 }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:49.452
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:49.452
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:49.454
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:49.454
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:49.454
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:49.454
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:49.454
+!MESSAGE [Info]	[BackgroundAgent] GitHub identity changed, clearing cached sessions {
+  hadPrevious: false,
+  hasCurrent: true,
+  cachedSessionCount: 0,
+  remoteDelegateCount: 0
+}
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-10-08 02:03:49.456
+!MESSAGE [Info]	[AuthManager] resolveSession: persisted store resolved a session
